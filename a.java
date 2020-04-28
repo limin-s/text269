@@ -1,1 +1,3 @@
-public void
+public class ss{
+	String name="ÕÅÈý·á";
+}
